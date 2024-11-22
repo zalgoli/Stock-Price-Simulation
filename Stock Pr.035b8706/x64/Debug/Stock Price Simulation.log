@@ -1,0 +1,9 @@
+﻿  main.cpp
+  pricing_models.cpp
+C:\Users\galzo\source\repos\Stock Price Simulation\pricing_models.cpp(50,20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\galzo\source\repos\Stock Price Simulation\pricing_models.cpp(50,20): warning C4244:         with
+C:\Users\galzo\source\repos\Stock Price Simulation\pricing_models.cpp(50,20): warning C4244:         [
+C:\Users\galzo\source\repos\Stock Price Simulation\pricing_models.cpp(50,20): warning C4244:             _Ty=float
+C:\Users\galzo\source\repos\Stock Price Simulation\pricing_models.cpp(50,20): warning C4244:         ]
+  Generating Code...
+  Stock Price Simulation.vcxproj -> C:\Users\galzo\source\repos\Stock Price Simulation\x64\Debug\Stock Price Simulation.exe
